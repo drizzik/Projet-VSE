@@ -11,35 +11,29 @@ Le projet V.S.E (Virtual Studio Experience) désigne le développement d’une a
 
 ### Dossier Unity 
 
-Dossier contenant les différents packages Unity :
-•	Package de dev complet
-•	Package final nettoyé
-•	Package exemple intégration libPD
+Dossier contenant la derniere version du projet sur Unity
 
 ### Dossier Pure Data
 
 Ensemble des patchs utilisés.
+Module de liaison Pure Data <-> Unity
 
-###Dossier Documentation 
+### Dossier Documentation 
 
 Documentation du projet, rapport final, et autres informations.
 
-###Dossier Build
-
-Build final du projet 
-
-###Dossier Leap Motion
+### Dossier Leap Motion
 
 Kit de dev de Leap Motion pour le projet
 
-##Utilisation
+## Utilisation
 
 Pour reprendre le projet, suivre les documentations existantes : 
 •	Installation Leap Motion
 •	Intallation Unity
 •	Intallation Pure Data
 •	Ajout du package dans Unity
-Pour utiliser le build final, télécharger l’intégralité du dossier build, et lancer le fichier «VSE.exe ».
+
 
 
 
@@ -50,7 +44,6 @@ Pour utiliser le build final, télécharger l’intégralité du dossier build, 
 * **Loic Lerich** - 
 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
