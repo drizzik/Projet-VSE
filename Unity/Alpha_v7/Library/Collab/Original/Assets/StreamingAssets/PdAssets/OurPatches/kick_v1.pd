@@ -1,0 +1,6 @@
+#N canvas 714 242 917 579 10;
+#X obj 100 67 receive kick;
+#X obj 135 231 dac~;
+#X obj 132 164 osc~ 440;
+#X connect 2 0 1 0;
+#X connect 2 0 1 1;

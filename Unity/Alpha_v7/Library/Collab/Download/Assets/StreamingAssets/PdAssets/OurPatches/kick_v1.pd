@@ -1,0 +1,9 @@
+#N canvas 759 302 917 626 10;
+#X obj 134 25 receive kick;
+#X obj 135 231 dac~;
+#X msg 145 128 open kick.wav;
+#X obj 133 177 readsf~;
+#X connect 0 0 2 0;
+#X connect 2 0 3 0;
+#X connect 3 0 1 0;
+#X connect 3 0 1 1;
